@@ -90,6 +90,12 @@
       <path value="$PROJECT_DIR$/vendor/spatie/once" />
       <path value="$PROJECT_DIR$/vendor/moontoast/math" />
       <path value="$PROJECT_DIR$/vendor/laravel/nova" />
+      <path value="$PROJECT_DIR$/vendor/inspheric/nova-indicator-field" />
+      <path value="$PROJECT_DIR$/vendor/vyuldashev/nova-money-field" />
+      <path value="$PROJECT_DIR$/vendor/fourstacks/nova-checkboxes" />
+      <path value="$PROJECT_DIR$/vendor/saulo-silva/plans" />
+      <path value="$PROJECT_DIR$/vendor/owenmelbz/nova-radio-field" />
+      <path value="$PROJECT_DIR$/vendor/moneyphp/money" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
